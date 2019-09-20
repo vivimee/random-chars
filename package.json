@@ -1,0 +1,23 @@
+{
+  "name": "random-str",
+  "version": "1.0.0",
+  "description": "Generate random string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivimee/random-str.git"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "author": "vivimee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivimee/random-str/issues"
+  },
+  "homepage": "https://github.com/vivimee/random-str#readme"
+}
