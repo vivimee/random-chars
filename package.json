@@ -1,5 +1,5 @@
 {
-  "name": "random-str",
+  "name": "random-string",
   "version": "1.0.0",
   "description": "Generate random string.",
   "main": "index.js",
